@@ -1,0 +1,20 @@
+body {
+    background: grey;
+}
+
+.mainHeader {
+    color: tomato;
+    background: white;
+    font-size: 64px;
+}
+
+.sectionHeader {
+    color: #1460AA;
+    background: hotpink;
+    font-size: 32px;
+}
+
+p {
+    color: yellow;
+}
+
